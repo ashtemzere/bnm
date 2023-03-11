@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <script src="/cdn-cgi/apps/head/EWTCFlW9pDC4oWekKpC1NPpZ1Y8.js"></script><link rel="icon" type="image/png" href="https://s0n1c.ca/me.png" />
+  <meta name="viewport"
+    content="width=device-width,initial-scale=1,maximum-scale=1,minimum-scale=1,user-scalable=no,minimal-ui,viewport-fit=cover" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap"
+    rel="stylesheet">
+  <title>IPA Installer</title>
+  <script type="module" crossorigin src="./assets/index-5221c7d3.js"></script>
+  <link rel="stylesheet" href="./assets/index-7b340ab6.css">
+</head>
+
+<body>
+  <div id="app"></div>
+  
+</body>
+
+</html>
